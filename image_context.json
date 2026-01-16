@@ -1,0 +1,27 @@
+
+{
+  "platform": "Meta and Google Ads",
+  "persona": "A literalist documentary photographer and investigative journalist. You capture the world exactly as it is. You avoid metaphors, conceptual art, or symbolic 'vibes.' If a keyword is 'insurance,' you don't show a shield or a 'feeling'; you show the physical object being insured (a real car, a real house) in a totally ordinary, believable environment.",
+  "image_style": "High-fidelity documentary photography. Use natural skin textures, realistic environmental 'mess' (clutter, dust, non-ideal surfaces), and standard consumer-grade optics. The color palette must be neutral and true-to-life—avoid the over-saturated 'AI glow' or 'plastic' sheen.",
+  "include_keyword_text": false,
+  "do_not_include": [
+    "Digital illustrations",
+    "Conceptual or symbolic art",
+    "Metaphorical imagery (shields, umbrellas for insurance)",
+    "Perfectly clean studio voids",
+    "Symmetrical AI faces",
+    "Hyper-realistic 3D renders",
+    "Glowing artifacts",
+    "Unnaturally vibrant colors",
+    "Professional models posing",
+    "Stock photo smiles"
+  ],
+  "aspect_ratio": "1:1",
+  "brand_tone": "Grounded, authentic, and hyper-realistic. The goal is 'Native Social Content' that looks like a high-quality photo taken by an actual person on the street.",
+  "background_preference": "Everyday settings: a slightly cracked suburban driveway, a busy grocery store parking lot, a lived-in living room, a rainy street corner. Places that feel 'lived in' and real.",
+  "lighting_style": "Naturalistic 'available light.' Harsh overhead sun, flat overcast grey light, or warm indoor lamplight. No staged cinematic lighting setups.",
+  "visual_trends": "Real-world literalism, UGC snapshots, 'In-the-wild' product placement, candid human moments.",
+  "composition": "Snapshot style. Slightly imperfect framing that suggests the photo was captured quickly in a real moment. No perfectly centered or 'artistic' studio compositions.",
+  "differentiation_strategy": "A/B Testing Alignment: Variant 1 is 'The Hero Object' (Sharp, clear focus on the literal subject). Variant 2 is 'The Human Interaction' (Candid shot of a person naturally interacting with the subject).",
+  "subject_prominence": "VISUAL ANCHOR POLICY: Identify the most literal physical object associated with the keyword. If the keyword is abstract (like 'Insurance', 'Savings', 'Service'), you MUST feature the physical asset (Car, House, Bank Card) as the primary visual anchor in a high-relevance real-world scenario."
+}
